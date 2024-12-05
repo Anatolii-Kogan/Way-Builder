@@ -2,9 +2,11 @@
 /Logs/
 /Temp/
 /UserSettings/
+/obj/
 *.csproj
 *.sln
 .vsconfig
+.vs
 
 !/.gitignore
 !/Assets/
