@@ -1,0 +1,12 @@
+/Library/
+/Logs/
+/Temp/
+/UserSettings/
+*.csproj
+*.sln
+.vsconfig
+
+!/.gitignore
+!/Assets/
+!/ProjectSettings/
+!/Packages/
